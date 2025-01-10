@@ -23,7 +23,7 @@ O projeto **Validador e Gerador de CPF** é uma aplicação desenvolvida com **H
 
 ## 🔧 **Como Executar o Projeto**
 
-<a href="https://vinicius-rodriguess.github.io/CPF-Generation-and-Validation/" target="_blank">Clique aqui para testar o projeto!</a>
+<a href="https://vinicius-rodriguess.github.io/CPF-Generation-and-Validation/src" target="_blank">Clique aqui para testar o projeto!</a>
 
 <img src="./src/img/cpf.png"/>
 
